@@ -159,6 +159,3 @@ cp frontend-command/.env.local.example frontend-command/.env.local
 | `NEXT_PUBLIC_API_URL` | http://localhost:4000 | Frontend → Backend |
 | `NEXT_PUBLIC_AI_CORTEX_URL` | http://localhost:8000 | Frontend → AI Cortex |
 
-## 📄 License
-
-MIT License — Built for India's flood resilience.
